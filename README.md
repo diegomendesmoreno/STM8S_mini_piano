@@ -10,6 +10,7 @@ Do que você precisa:
 # **Software**
 - [Cosmic Software](http://www.cosmicsoftware.com/download_stm8_32k.php) – Compilador
 - [ST Visual Develop (STVD)](http://www.st.com/en/development-tools/stvd-stm8.html) – IDE e programador
+
 ou
 - [IAR Embedded Workbench for STM8 (EWSTM8)](https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview) – IDE e Compilador (8 Kbyte de limitação de código)
 
@@ -34,6 +35,7 @@ What do you need:
 # **Software**
 - [Cosmic Software](http://www.cosmicsoftware.com/download_stm8_32k.php) – Compiler (32kB code size limit)
 - [ST Visual Develop (STVD)](http://www.st.com/en/development-tools/stvd-stm8.html) – IDE and programmer
+
 or
 - [IAR Embedded Workbench for STM8 (EWSTM8)](https://www.iar.com/iar-embedded-workbench/#!?architecture=STM8&currentTab=overview) – IDE e Compilador (8 Kbyte code size limitation)
 
